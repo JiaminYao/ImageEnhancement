@@ -8,7 +8,7 @@ if ~exist(outputDir, 'dir')
 end
 
 imageFiles = dir(fullfile(imageDir, '*.jpg'));
-sigma_values = 0.2:0.2:0.8;
+sigma_values = 0.4:0.2:1;
 
 % Metric weights
 weights = struct(...
