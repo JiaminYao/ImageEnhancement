@@ -99,4 +99,4 @@ Key findings:
 - **Unsharp Masking** effectively restores edge clarity without excessive artifacts
 - **Distance-Based Selective Blur** provides the most natural and visually appealing background suppression
 
-The proposed pipeline is efficient, visually robust, and suitable for **social media, veterinary documentation, e-commerce, and mobile applications**, highlighting the value of classical image processing techniques for real-world visual enhancement tasks :contentReference[oaicite:4]{index=4}.
+The proposed pipeline is efficient, visually robust, and suitable for **social media, veterinary documentation, e-commerce, and mobile applications**, highlighting the value of classical image processing techniques for real-world visual enhancement tasks.
