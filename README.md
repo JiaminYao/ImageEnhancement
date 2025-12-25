@@ -5,7 +5,7 @@
 
 Dog photography is one of the most popular forms of visual content across social media, pet services, veterinary records, and consumer products. However, capturing high-quality dog images is challenging due to **uneven lighting, motion blur, low sharpness, and distracting backgrounds**.
 
-This project presents a **three-stage digital image enhancement pipeline** designed to transform raw dog photos into visually appealing, professional-quality images. The system integrates **localized contrast enhancement**, **edge-preserving sharpness restoration**, and **automated background suppression**, with performance evaluated using both **quantitative metrics** and **qualitative visual analysis** :contentReference[oaicite:0]{index=0}.
+This project presents a **three-stage digital image enhancement pipeline** designed to transform raw dog photos into visually appealing, professional-quality images. The system integrates **localized contrast enhancement**, **edge-preserving sharpness restoration**, and **automated background suppression**, with performance evaluated using both **quantitative metrics** and **qualitative visual analysis**.
 
 
 ## 📊 Dataset Description
